@@ -1,3 +1,5 @@
+# calculator
+
 # Purpose:
 To provide a functional calculator interface that can perform basic arithmetic operations directly in a web browser.
 # Structure:
